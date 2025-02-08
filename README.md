@@ -16,5 +16,5 @@ Modify ./stuff.py to add your domains, pending days-left threshold, and email in
 ```./ssl-certificate-expiration-checker.py```
 
 ## Example:
-<img width="708" alt="this" src="https://gist.github.com/user-attachments/assets/b30cf4ab-306d-4022-91f8-8260181b73a6" />
 
+<img width="708" alt="Example" src="https://github.com/user-attachments/assets/d8e89bb4-d1dd-41ac-8dc7-01ed2ae3e554" />
