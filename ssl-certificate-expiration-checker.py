@@ -56,12 +56,12 @@ def checkexp():
                     days = int(str(delta).split(" ")[0])
                     if days < int(threshold_days):
                         if days < 1:
-                            kind = "<------------- EXPIRED !!!"
+                            kind = "| <--- EXPIRED --->"
                             preposition = "past"
                         else:
-                            kind = "<------------- WARNING ---"
+                            kind = "| <--- WARNING --->"
                             preposition = "till"
-                        msg = f" {str(abs(days)).rjust(3, ' '):<3} days {preposition:<3} expiration of {domain:<{domain_pad}} {kind} | Expiration: {expires}"
+                        msg = f" {str(abs(days)).rjust(3, ' '):<3} days {preposition:<3} public SSL expiration for {domain:<{domain_pad}} {kind} | {expires}"
                         print(msg)
                         output += f"{msg}\n"
         except:
