@@ -18,3 +18,10 @@ Modify ./stuff.py to add your domains, pending days-left threshold, and email in
 ## Example:
 
 <img width="708" alt="Example" src="https://github.com/user-attachments/assets/d8e89bb4-d1dd-41ac-8dc7-01ed2ae3e554" />
+
+
+
+
+   
+#### Go(GoLang) Version:
+https://gist.github.com/se7enack/047a43f7e3b14a5068e8b224d36c0664
