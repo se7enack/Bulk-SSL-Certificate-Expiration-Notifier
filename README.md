@@ -23,5 +23,5 @@ Modify ./stuff.py to add your domains, pending days-left threshold, and email in
 
 
    
-#### Go(GoLang) Version:
+#### Go(GoLang) light Version:
 https://gist.github.com/se7enack/047a43f7e3b14a5068e8b224d36c0664
